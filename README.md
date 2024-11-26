@@ -9,7 +9,7 @@ The optimized model shows similar training behavior, with the accuracy improving
 However, the loss is still NaN, indicating a persistent issue in the model.
 
 
-Comparison:
+## Comparison:
 Accuracy Trends:
 
 The training accuracy for both models remained nearly the same (~57%).
